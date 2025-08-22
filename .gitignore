@@ -1,0 +1,22 @@
+# Archivos de entorno
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+
+# Otros archivos temporales y sistema
+.DS_Store
